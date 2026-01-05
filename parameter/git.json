@@ -1,0 +1,22 @@
+[
+    {
+        "p_rel_url" : "harshmishra9812/Azure_Project/refs/heads/main/Data/locations.csv",
+        "p_sink_folder" : "csvfile",
+        "p_sink_file" : "locations.csv"
+    },
+    {
+        "p_rel_url" : "harshmishra9812/Azure_Project/refs/heads/main/Data/make_details.csv",
+        "p_sink_folder" : "csvfile",
+        "p_sink_file" : "make_details.csv"
+    },
+    {
+        "p_rel_url" : "harshmishra9812/Azure_Project/refs/heads/main/Data/stolen_vehicles.csv",
+        "p_sink_folder" : "csvfile",
+        "p_sink_file" : "stolen_vehicles.csv"
+    },
+    {
+        "p_rel_url" : "harshmishra9812/Azure_Project/refs/heads/main/Data/stolen_vehicles_db_data_dictionary.csv",
+        "p_sink_folder" : "csvfile",
+        "p_sink_file" : "stolen_vehicles_db_data_dictionary.csv"
+    }
+]
