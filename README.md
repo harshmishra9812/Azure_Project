@@ -7,7 +7,7 @@ This project implements a scalable and robust Azure-based data pipeline for coll
 - **Power BI** for creating interactive dashboards
 
 # Data Source
-The data source for this project is raw data collected from various external sources and ingested into the Azure environment.
+The data source for this project is raw data collected from **GitHub** and ingested into the Azure environment.  
 This raw data forms the foundation for further processing and analysis in the pipeline.
 
 ## Data Ingestion Using Azure Data Factory
